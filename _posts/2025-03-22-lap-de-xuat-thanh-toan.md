@@ -15,6 +15,6 @@ media_subpath: /assets/quan-ly-ban-hang
 ![Lập đề xuất thanh toán](/Screenshot_21-3-2025_151751_vhome79.com.jpeg)
 
 ### Lập phiếu thu
-![Lập phiếu thu](/Screenshot_21-3-2025_15343_vhome79.png)
+![Lập phiếu thu](/lap-phieu-thu.jpeg)
 
 ###
