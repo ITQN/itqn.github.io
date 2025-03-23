@@ -16,3 +16,5 @@ media_subpath: /assets/quan-ly-ban-hang
 
 ### Lập phiếu thu
 ![Lập phiếu thu](/Screenshot_21-3-2025_15343_vhome79.png)
+
+###
