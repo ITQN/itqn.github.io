@@ -1,3 +1,10 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
+
 # ITQN Mobile App — Hỗ trợ
 
 Phiên bản ứng dụng: **1.x.x**
