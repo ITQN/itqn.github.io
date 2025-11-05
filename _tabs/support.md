@@ -33,7 +33,7 @@ Khi gửi yêu cầu hỗ trợ, bạn vui lòng kèm theo thông tin:
 
 ## Privacy Policy
 
-[Privacy Policy](privacy.md)
+
 
 ---
 Nếu cần hỗ trợ nhanh, ghi rõ:  
