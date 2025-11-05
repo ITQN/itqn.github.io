@@ -1,3 +1,10 @@
+---
+layout: tags
+icon: fas fa-tags
+order: 2
+---
+
+
 # Privacy Policy — ITQN Mobile App
 
 Ứng dụng ITQN Mobile App thu thập tối thiểu dữ liệu cần thiết để vận hành.
