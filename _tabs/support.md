@@ -31,9 +31,6 @@ Khi gửi yêu cầu hỗ trợ, bạn vui lòng kèm theo thông tin:
 **Quên mật khẩu?**  
 → Dùng chức năng *Forgot Password* tại màn hình đăng nhập
 
-## Privacy Policy
-
- [Privacy Policy](privacy.md)
 
 ---
 Nếu cần hỗ trợ nhanh, ghi rõ:  
